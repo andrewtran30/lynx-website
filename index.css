@@ -140,7 +140,7 @@ header table {
     cursor: pointer;
     color:#fff;
     background:rgb(56, 29, 41);
-    box-shadow:0px 10px 30px rgba(56, 29 60,0.8);
+    box-shadow:0px 10px 30px rgb(56, 29, 41);
 }
 .btn_one {
     font-size:18px;
@@ -156,10 +156,11 @@ header table {
     transition:0.4s ease-in-out;
 }
 .btn_one:hover {
-    box-shadow:0px 10px 30px rgba(56, 29, 56, 0.8);
+    box-shadow:0px 10px 30px rgba(173, 46, 207, 1);
+    border:3px solid rgb(173, 46, 207);
     cursor:pointer;
     color:#fff;
-    background:rgb(56, 29, 41);
+    background:rgb(173, 46, 207);
 }
 #rightImage {
     width:100%;
