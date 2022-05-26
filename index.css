@@ -164,7 +164,7 @@ header table {
 #rightImage {
     width:100%;
     height:95vh;
-    background:linear-gradient(0deg,rgba(246, 178, 95, 0),rgba(176, 91, 215, 0)),url("images/food.jpg") center center;
+    background:linear-gradient(0deg,rgba(246, 178, 95, 0),rgba(176, 91, 215, 0)),url("images/uva_lawn.jpeg") center center;
     background-size:cover;
     background-repeat:no-repeat;
 }
